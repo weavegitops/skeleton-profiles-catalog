@@ -1,5 +1,0 @@
-Thank you for installing {{ .Chart.Name }} {{ .Chart.Version }} 😀
-
-
-Visit https://kyverno.io/policies/ to find more sample policies.
-

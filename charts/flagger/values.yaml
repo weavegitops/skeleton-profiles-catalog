@@ -1,3 +1,0 @@
-flagger:
-  metricsServer: http://weaveworks-prometheus-prometheus:9090
-  meshProvider: linkerd
